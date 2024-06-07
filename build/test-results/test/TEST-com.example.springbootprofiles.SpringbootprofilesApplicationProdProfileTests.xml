@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.springbootprofiles.SpringbootprofilesApplicationProdProfileTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-06-07T12:31:46" hostname="DESKTOP-SC7D1KT" time="0.005">
+  <properties/>
+  <testcase name="givenprofiles_whenProdProfileSet_ReadProdProfileValues()" classname="com.example.springbootprofiles.SpringbootprofilesApplicationProdProfileTests" time="0.005"/>
+  <system-out><![CDATA[2024-06-07T08:31:45.911-04:00  INFO 25608 --- [    Test worker] t.c.s.AnnotationConfigContextLoaderUtils : Could not detect default configuration classes for test class [com.example.springbootprofiles.SpringbootprofilesApplicationProdProfileTests]: SpringbootprofilesApplicationProdProfileTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2024-06-07T08:31:45.914-04:00  INFO 25608 --- [    Test worker] .b.t.c.SpringBootTestContextBootstrapper : Found @SpringBootConfiguration com.example.springbootprofiles.SpringbootprofilesApplication for test class com.example.springbootprofiles.SpringbootprofilesApplicationProdProfileTests
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v3.3.0)
+
+2024-06-07T08:31:45.976-04:00  INFO 25608 --- [    Test worker] gbootprofilesApplicationProdProfileTests : Starting SpringbootprofilesApplicationProdProfileTests using Java 17.0.11 with PID 25608 (started by subbi in C:\repos\downloadpractice\SpringBootProfiles)
+2024-06-07T08:31:45.977-04:00  INFO 25608 --- [    Test worker] gbootprofilesApplicationProdProfileTests : The following 1 profile is active: "prod"
+2024-06-07T08:31:46.379-04:00  INFO 25608 --- [    Test worker] gbootprofilesApplicationProdProfileTests : Started SpringbootprofilesApplicationProdProfileTests in 0.46 seconds (process running for 5.081)
+PRODfalse
+http://discoverfinancial.com
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

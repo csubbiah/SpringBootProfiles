@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.springbootprofiles.SpringbootprofilesApplicationDevProfileTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-06-07T12:31:44" hostname="DESKTOP-SC7D1KT" time="1.128">
+  <properties/>
+  <testcase name="givenprofiles_whenDevProfileSet_ReadDevProfileValues()" classname="com.example.springbootprofiles.SpringbootprofilesApplicationDevProfileTests" time="1.128"/>
+  <system-out><![CDATA[08:31:42.421 [Test worker] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils -- Could not detect default configuration classes for test class [com.example.springbootprofiles.SpringbootprofilesApplicationDevProfileTests]: SpringbootprofilesApplicationDevProfileTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+08:31:42.579 [Test worker] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper -- Found @SpringBootConfiguration com.example.springbootprofiles.SpringbootprofilesApplication for test class com.example.springbootprofiles.SpringbootprofilesApplicationDevProfileTests
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v3.3.0)
+
+2024-06-07T08:31:43.141-04:00  INFO 25608 --- [    Test worker] ngbootprofilesApplicationDevProfileTests : Starting SpringbootprofilesApplicationDevProfileTests using Java 17.0.11 with PID 25608 (started by subbi in C:\repos\downloadpractice\SpringBootProfiles)
+2024-06-07T08:31:43.142-04:00  INFO 25608 --- [    Test worker] ngbootprofilesApplicationDevProfileTests : The following 1 profile is active: "dev"
+2024-06-07T08:31:44.737-04:00  INFO 25608 --- [    Test worker] ngbootprofilesApplicationDevProfileTests : Started SpringbootprofilesApplicationDevProfileTests in 1.936 seconds (process running for 3.439)
+DEVtrue
+http://dev.discoverfinancial.com
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
